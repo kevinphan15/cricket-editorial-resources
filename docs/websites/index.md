@@ -24,7 +24,7 @@ All listings are subject to ongoing quarterly reviews. Any site showing a declin
   <td><a href="https://www.cricketindies.com" target="_blank" rel="noopener noreferrer">Cricket Indies</a></td>
   <td>Hindi</td>
   <td>Tier 1</td>
-  <td>Cricket News</td>
+  <td>Cricket Statistics</td>
   <td>Cricket News</td>
   <td>Live Site</td>
 </tr>
