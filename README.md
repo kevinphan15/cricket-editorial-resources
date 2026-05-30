@@ -18,7 +18,7 @@ To maintain editorial consistency and technical accuracy, this repository is org
     An analytical guide to forecasting cricket outcomes using objective data parameters like pitch metrics, weather indices, and team form, excluding any commercial betting advice.
 *   **[Source Evaluation Methodology](docs/source-evaluation.md)**
     A framework for reviewing, grading, and categorizing digital cricket resources based on editorial quality, language distribution, and source categories.
-*   **[Cricket Website Directory](docs/websites/)**
+*   **[Cricket Website Directory](docs/websites/index.md)**
     A curated portfolio cataloging active independent cricket websites and references aligned with our editorial and technical reference standards.
 
 ## Project Scope & Purpose
