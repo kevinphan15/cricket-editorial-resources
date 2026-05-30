@@ -8,17 +8,17 @@ Our primary objective is to define, compile, and maintain professional-grade ref
 
 To maintain editorial consistency and technical accuracy, this repository is organized into several key resource areas:
 
-*   **[Cricket Topics & Categorization](cricket-topics.md)**
+*   **[Cricket Topics & Categorization](docs/cricket-topics.md)**
     A taxonomic breakdown of the major subject areas in modern cricket reporting, including news coverage, performance analysis, and milestone tracking.
-*   **[Cricket Terminology Glossary](cricket-glossary.md)**
+*   **[Cricket Terminology Glossary](docs/cricket-glossary.md)**
     A standardized reference glossary of technical terms, playing styles, and mathematical formulas utilized in modern match reporting and statistical breakdowns.
-*   **[Editorial Guidelines](editorial-guidelines.md)**
+*   **[Editorial Guidelines](docs/editorial-guidelines.md)**
     Standards of journalism, multi-source verification protocols, name-spelling conventions, and structural templates to prevent duplicate content issues.
-*   **[Match Prediction Framework](match-prediction-notes.md)**
+*   **[Match Prediction Framework](docs/match-prediction-notes.md)**
     An analytical guide to forecasting cricket outcomes using objective data parameters like pitch metrics, weather indices, and team form, excluding any commercial betting advice.
-*   **[Source Evaluation Methodology](source-evaluation.md)**
+*   **[Source Evaluation Methodology](docs/source-evaluation.md)**
     A framework for reviewing, grading, and categorizing digital cricket resources based on editorial quality, language distribution, and source categories.
-*   **[Cricket Website Directory](websites/)**
+*   **[Cricket Website Directory](docs/websites/)**
     A curated portfolio cataloging active independent cricket websites and references aligned with our editorial and technical reference standards.
 
 ## Project Scope & Purpose
